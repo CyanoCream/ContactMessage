@@ -40,7 +40,7 @@ class ContactMessageApiController extends Controller
 
             return response()->json([
                 'success' => true,
-                'message' => 'Pesan berhasil dikirim!',
+                'message' => 'Message sent successfully!',
                 'data' => [
                     'id' => $contactMessage->id,
                     'name' => $contactMessage->name,
@@ -70,7 +70,7 @@ class ContactMessageApiController extends Controller
 
             return response()->json([
                 'success' => false,
-                'message' => 'Terjadi kesalahan saat mengirim pesan. Silakan coba lagi.'
+                'message' => 'An error occurred while sending the message. Please try again..'
             ], 500);
         }
     }

@@ -1,8 +1,12 @@
 # 🌐 Fullstack Project - Portofolio Profile & Backoffice Panel
 
+jika ingin mengakses secara online:
+Backoffice: http://72.60.76.69:8282/login
+Frontend Profile Contact Us: http://72.60.76.69:8283
+
 Repo ini berisi **dua project**:
 
-1. **Backend:** `backoffice-panel` (Laravel 12, PHP 8.3)  
+1. **Backend:** `backoffice-panel` (Laravel 12, PHP 8.3)
 2. **Frontend:** `portofolio-profile` (NuxtJS 4.1)
 
 ---
@@ -107,14 +111,14 @@ npm run preview
 
 ## 🔧 Tips
 
-- Pastikan backend sudah jalan sebelum frontend agar API dapat diakses.  
+- Pastikan backend sudah jalan sebelum frontend agar API dapat diakses.
 - Gunakan `.gitignore` untuk menghindari commit `node_modules`, `vendor`, dan file `.env`.
 
 ---
 
 ## ✨ Kontributor
 
-Dibuat dengan ❤️ oleh **Tim Developer Fullstack**  
+Dibuat dengan ❤️ oleh **Tim Developer Fullstack**
 
 ---
 
@@ -122,4 +126,4 @@ Dibuat dengan ❤️ oleh **Tim Developer Fullstack**
 
 MIT License
 
-"# ContactMessage" 
+"# ContactMessage"
