@@ -3,6 +3,7 @@
 jika ingin mengakses secara online:
 Backoffice: http://72.60.76.69:8282/login
 Frontend Profile Contact Us: http://72.60.76.69:8283
+https://github.com/CyanoCream/ContactMessage.git
 
 Repo ini berisi **dua project**:
 
@@ -113,12 +114,6 @@ npm run preview
 
 - Pastikan backend sudah jalan sebelum frontend agar API dapat diakses.
 - Gunakan `.gitignore` untuk menghindari commit `node_modules`, `vendor`, dan file `.env`.
-
----
-
-## ✨ Kontributor
-
-Dibuat dengan ❤️ oleh **Tim Developer Fullstack**
 
 ---
 
